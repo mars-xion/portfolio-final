@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tech-Pad sci-fi
+* source:	https://sketchfab.com/3d-models/tech-pad-sci-fi-8eef177080d7411f979cecbf8bcde1d6
+* author:	Nohazure (https://sketchfab.com/nohamanfredi.core)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tech-Pad sci-fi" (https://sketchfab.com/3d-models/tech-pad-sci-fi-8eef177080d7411f979cecbf8bcde1d6) by Nohazure (https://sketchfab.com/nohamanfredi.core) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

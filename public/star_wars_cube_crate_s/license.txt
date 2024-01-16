@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars Cube Crate S
+* source:	https://sketchfab.com/3d-models/star-wars-cube-crate-s-4b40fd97b3cb4b68a7b4b18b02b3ec6a
+* author:	tegnemaskin (https://sketchfab.com/tegnemaskin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars Cube Crate S" (https://sketchfab.com/3d-models/star-wars-cube-crate-s-4b40fd97b3cb4b68a7b4b18b02b3ec6a) by tegnemaskin (https://sketchfab.com/tegnemaskin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

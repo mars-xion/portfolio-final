@@ -1,0 +1,11 @@
+Model Information:
+* title:	Core from Portal 2
+* source:	https://sketchfab.com/3d-models/core-from-portal-2-0558ebe274be4f139d4420db52d3db14
+* author:	LovePortal (https://sketchfab.com/platonkosenko26)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Core from Portal 2" (https://sketchfab.com/3d-models/core-from-portal-2-0558ebe274be4f139d4420db52d3db14) by LovePortal (https://sketchfab.com/platonkosenko26) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
